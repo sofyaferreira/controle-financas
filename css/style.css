@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: rgb(107, 33, 210);
+    background-color: rgba(165, 120, 209, 0.501);
+}
+
+div {
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#salario {
+    display: block;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input {
+    width: 200px;
+    padding: 5px;
+    margin: 8px;
+}
+
+button {
+    margin-top: 10x;
+    font-size: 15px;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    font-family: Times New Roman;
+    color: rgb(255, 255, 255);
+    background-color: rgb(113, 60, 188);;
+}
+
+h2{
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    text-align: center;
+}
